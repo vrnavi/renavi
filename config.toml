@@ -1,4 +1,4 @@
-baseURL = 'http://lapis.self.starrypoint.me/'
+baseURL = 'https://lapis.self.starrypoint.me/'
 languageCode = 'en-us'
 title = '~lapis/'
 theme = 'alageek'
