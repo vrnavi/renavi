@@ -1,7 +1,7 @@
 :root {
   --main-bg-color: #fff;
   --main-font-color: #313537;
-  --main-link-color: #0011ff;
+  --main-link-color: #0000ff;
   --header-font-color: #333333;
   --header-link-color: #666666;
   --footer-link-color: #313537;
@@ -19,9 +19,9 @@
 
 @media (prefers-color-scheme: dark) {
   :root {
-    --main-bg-color: #1a1a1a;
+    --main-bg-color: #000;
     --main-font-color: #f8f9fa;
-    --main-link-color: #ffc107;
+    --main-link-color: #aa77b0;
     --header-font-color: #efefef;
     --header-link-color: #eaeaea;
     --footer-link-color: #aaa;
