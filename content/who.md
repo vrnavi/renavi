@@ -11,7 +11,7 @@ Outside of writing, I study Japanese. I wish to be a translator at some point in
 
 Lover of:
 - Retro consoles.
-- Y2K aesthetic.
+- Y2K/Metalheart aesthetic.
 - Shitposting.
 - The Starry Point Lighthouse.
 

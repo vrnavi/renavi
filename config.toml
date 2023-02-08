@@ -53,7 +53,7 @@ latestpostcount = 5
 github = "vrnavi"
 email = "lapis@starrypoint.me"
 # twitter = "example"
-mastodon_url = 'https://example.com'
+mastodon_url = 'https://cdrom.tokyo/renavi'
 
 [params.colors]
 identifier = "#527fc1f"
