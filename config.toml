@@ -1,6 +1,6 @@
 baseURL = 'https://ren.0ccu.lt/'
 languageCode = 'en-us'
-title = '~lapis/'
+title = 'Log of Lapis'
 theme = 'alageek'
 enableEmoji = true
 
