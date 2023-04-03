@@ -51,9 +51,9 @@ progressively = true
 uselatex = true
 latestpostcount = 5
 github = "vrnavi"
-email = "lapis@starrypoint.me"
+email = "mailbox@starrypoint.me"
 # twitter = "example"
-mastodon_url = 'https://cdrom.tokyo/renavi'
+# mastodon_url = 'https://cdrom.tokyo/renavi'
 
 [params.colors]
 identifier = "#527fc1f"
