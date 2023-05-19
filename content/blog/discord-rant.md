@@ -23,10 +23,12 @@ Many usernames are already taken. I've tried `@re`, `@ren`, `@lapis`, and all we
 
 Now that's all well and good, I still have `@renavi`, but half of the Partner server themselves cannot seem to get **their own usernames**. This especially matters as half of the server represents brands, people representing themselves, and are unable to do so because of Discord's arbitrary whim that we don't even know, as they wont talk.
 
-It's only now I understand why some people are so distrusting of corporations. They really aren't your friends, even when you a "Partner". All those years ago, I never thought that Discord would end up like YouTube of all companies.
+It's only now I understand why some people are so distrusting of corporations. They really aren't your friends, even when you are a "Partner", quote unquote. All those years ago, I never thought that Discord would end up like YouTube of all companies.
 
 Unresponsive, and enigmantic to get a hold of.
 
 I'll be moving to something more open source eventually, at least there changes aren't done arbitrarily, or to please investors.
 
 tl;dr: The FOSS crowd was right. More at 11.
+
+*This post was edited to fix a minor spelling error.*
