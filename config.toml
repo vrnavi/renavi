@@ -43,9 +43,12 @@ enableEmoji = true
     weight = 30
 
 [params]
-copyright = "(c) 2023 Lapis Lazuli"
+title = "Log of Lapis"
+description = "A blog for a Digital Witch."
+images = ["setup.png"]
+copyright = "(c) 0003 Lapis Lazuli"
 copyrightUrl = "https://starrypoint.me"
-logofile = "img/logo.png"
+logofile = "img/background.png"
 highlightjs = true
 progressively = true
 uselatex = true
