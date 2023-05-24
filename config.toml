@@ -44,11 +44,11 @@ enableEmoji = true
 
 [params]
 title = "Log of Lapis"
-description = "A blog for a Digital Witch."
-images = ["setup.png"]
+description = "Digital profile sent to the boundless expanse of the Outernet."
+images = ["background.png"]
 copyright = "(c) 0003 Lapis Lazuli"
 copyrightUrl = "https://starrypoint.me"
-logofile = "img/background.png"
+logofile = "img/logo.png"
 highlightjs = true
 progressively = true
 uselatex = true

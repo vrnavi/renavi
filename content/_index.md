@@ -1,5 +1,5 @@
 +++
-author = "renavi"
+author = "ren"
 title = "Homepage"
 description = "Digital profile sent to the boundless expanse of the Outernet."
 +++
