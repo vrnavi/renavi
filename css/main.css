@@ -352,3 +352,8 @@ h6 {
     margin-right: 0;
   }
 }
+
+/* Addendum for Twitter. */
+.twitter-tweet {
+color: #FFF !important
+}
