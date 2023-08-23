@@ -131,7 +131,7 @@ h6 {
   color: var(--header-link-color);
   font-family: var(--font-title);
   font-size: 14px;
-  padding: 0 10px 0 0;
+  padding: 0 5px 0 0;
   display: inline;
 }
 
@@ -141,6 +141,7 @@ h6 {
 
 .header ul.nav li.nav-item::before {
     content: "·";
+    padding: 0 5px 0 0px;
 }
 
 .header ul.nav li.nav-item:first-child::before {
@@ -191,7 +192,7 @@ h6 {
   margin: auto;
 }
 
-.content .markdown > h1,
+/* .content .markdown > h1,
 .content .markdown > h2,
 .content .markdown > h3,
 .content .markdown > h4,
@@ -199,7 +200,7 @@ h6 {
 .content .markdown > h6 {
   margin-top: 3rem;
   margin-bottom: 0.75rem;
-}
+} */
 
 .content .meta,
 .content .markdown > h1,

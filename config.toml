@@ -47,7 +47,7 @@ title = "Log of Lapis"
 description = "Digital profile sent to the boundless expanse of the Outernet."
 images = ["background.png"]
 copyright = "(c) 0003 Lapis Lazuli"
-copyrightUrl = "https://starrypoint.me"
+copyrightUrl = "https://0ccu.lt"
 logofile = "img/logo.png"
 highlightjs = true
 progressively = true
@@ -56,7 +56,7 @@ latestpostcount = 5
 github = "vrnavi"
 email = "mailbox@starrypoint.me"
 # twitter = "example"
-# mastodon_url = 'https://cdrom.tokyo/renavi'
+mastodon_url = 'https://c.im/@navi'
 
 [params.colors]
 identifier = "#527fc1f"
