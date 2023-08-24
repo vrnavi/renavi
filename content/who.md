@@ -17,4 +17,4 @@ I am a lover of:
 
 *My real name will never be posted on this site. I'm sure you could figure it out if you really wanted to, though.*
 
-Either way, nice to meet you.
+Either way, nice to meet you. If you'd like, you could say hi to my [friends](/friends) as well.
