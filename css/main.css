@@ -358,3 +358,55 @@ h6 {
 .twitter-tweet {
 color: #FFF !important
 }
+
+/* Mastodon */
+
+#comments-wrapper div:first-child {
+    margin-top: 0em !important;
+}
+
+.comment {
+    margin-top: 1em;
+    border-color: white;
+    border-style: solid;
+}
+
+.comment-author-name p {
+    margin-bottom: 0em;
+	 font-weight: bold;
+}
+
+.comment-avatar {
+     float:left;
+}
+.comment-avatar img {
+	 width: 5em;
+}
+ 
+.comment-author-name.op p {
+    color: black;
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+.comment-author {
+    padding-left: 0.3em;
+    height: 5em;
+    display: flex; 
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+}
+
+.comment-meta {
+    border-bottom-style: solid;
+    border-color: white;
+}
+
+.comment-main {
+    padding-left: 0.3em;
+}
+
+.comment-reply {
+    margin-top: 0em !important;
+    margin-left: 5em;
+    border-top-style: none;
+}
