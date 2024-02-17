@@ -1,13 +1,12 @@
-# 🌐 Hello, Navi.
+# Hello, outernet.
 
-**Hello, internet.** I am `Re:n`. I also go by `ren` or `lapis`.
+I am `Ren`. You may also call me `Lapis`.
 
 My common username is `renavi`, but I use `vrnavi` if that is taken.
 
 My pronouns are `she/her`, and I am a `digital witch` of sorts.
 
-Repositories on this account are mostly for my writing, as well as the OneShot Discord Server.
+This account is used for the OneShot Discord Server, my personal presences,<br>
+and the preservation of Systemware almost lost media.
 
-Visit my digital place of residence here.
-
-👁‍🗨 [Gate](https://0ccu.lt)
+You may also visit my digital place of residence. [👁‍](https://0ccu.lt)
