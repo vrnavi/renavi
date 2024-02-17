@@ -4,8 +4,8 @@ title = "Homepage"
 description = "Digital profile sent to the boundless expanse of the Outernet."
 +++
 
-# **Hello, net.**
+# **Hello.**
 
-I am `Lapis`, also known as `Ren`. I am a `writer`, and a `digital witch` of sorts.
+I am `Ren`, also known as `Lapis`. I am a `writer`, and a `digital witch` of sorts.
 
 This is my own personal blog for my discoveries on the `Innernet`, `Outernet`, and for my time at `Starry Point`.
