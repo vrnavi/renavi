@@ -1,0 +1,30 @@
++++
+author = "ren"
+title = "A response, an apology, and an olive branch."
+date = "2024-06-09"
+description = "This post has no description."
++++
+
+This post will remain unlisted, and kept up for the time being. I don't want to cause more damage than I have already caused. If you do not like this post, feel free to share the link, or save it with `CTRL+S`, and hold me accountable for it.
+
+To preface everything, please keep in mind that I was an emotional idiot with chronic anxiety then, and I still am now. I am two and a half years removed from my twenty years kept with two narcissistic abusers, and my mental state is the equivalent of a war-torn city that I'm still trying to put the pieces together of. I don't know what to say to people when I'm still trying to figure out what to say to myself, so I apologize in advance if anything comes out wrong. I have no intention to inflame anything with this post.
+
+This is in response to [Tiff's posts](https://wetdry.world/@TiffanyNeat/112503570970280988). "You"'s in here are directed towards Tiff. I'll get the big things out of the way first.
+
+To actually start, I apologize, profusely. For everything. I did treat you like utter garbage, and nothing I could say here would excuse it. None of what I did was with the intention to manipulate or abuse you, and I feel great shame that what I did resulted in it. All I can do here is explain why it was the case. If you don't want an explanation, just skip this paragraph, that's okay. Until recently, I've been grappling with what I've internally labeled as a recurring problem. I get close to people, second guess myself due to prior experiences that have scarred me, then immediately try to retract without causing any problems in the process. Yet, it often would cause problems in the process, due to me putting up walls too quickly, and without any explanation. None of that is because of anything you did, it happened due to scars that I've been unable to heal properly. I was scared of something that would hurt me, and would reflexively react because of it. That's why I got upset at you when you asked me about Muse Dash, it wasn't something specifically directed at you as a person, I would say something similar to anyone who approached me about whatever I liked, due to a long past experience of someone I relied on as a friend barring me from liking some character in Touhou, which was a deep cut to me. I still have that issue now, yet I've been doing my best to shove it away from hurting me and anyone else.
+
+It wasn't until we stopped talking that I started seriously looking at myself, as I'm plenty aware of my plurality now, and have been trying hard to improve myself with the help of the other that's alongside me. Unlike a year ago, I now have someone to keep me in line, and to push me to make decisions that aren't going to harm anyone without me realizing. I've been trying to hold myself to a standard that I've never been held to before. To keep in mind what affects others as much as what I have affects me. I had little social intelligence, or any emotional intelligence outside of what I knew of myself at the time, which was only a single piece of the puzzle I'm still trying to solve now.
+
+I want to apologize as well for getting too close to you as quickly as I did. I wasn't ready for it, on any level, and I failed to communicate it after I realized that was the case, only making it worse and worse as it came out in all the wrong ways. I shouldn't have hung anything over your head, especially when I threatened to cut everything off multiple times. At the time, I didn't realize how much of an impact that would have. I was blind to it, made worse with unsolved problems that I had.
+
+I don't expect this post to solve anything. All I can hope is that you get some insight to why I acted the way I did at the time. I've been trying to prove, but as I keep saying to myself, words are just words, and words mean little.
+
+Before I wrap it up, I want to get my problems with your post out of the way. I only have two.
+
+One, doxxing my name is incredibly low of you. I am aware that you edited it out, but it is still within the edit history of said posts, and your Discord bio, apparently. If you could repost it without my *legal name* attached to it, I'd be very appreciative. I get what I did was nightmarishly wrong, but I purposefully keep my legal name very private for a reason, as I'm still hiding from my own abusers and don't wish for them to find me and drag my mental state back down while I'm trying to fix myself. If I've ever said it in public before, it was only very temporarily, in private spaces.
+
+Two, posting a kink of mine publicly is also incredibly low. I don't even like that kind of thing anymore, and I'm really hoping this won't devolve into a shit-flinging contest. This sort of thing only reads to me as a provocation to spill something about you in return, which I don't want to do. I don't want to cause any more problems for you, so I can only ask for you to please don't do this sort of thing.
+
+With those out of the way, I wouldn't mind hearing out anything you want to say to me, be it a conversation or beratements, I don't mind either. All I ask is you please fix the only two problems I have with your posts. If my post is still up when you do, I'll change the earlier link to your new post when I get aware of it, I don't want to hide anything. I've unblocked you on Discord, and if you're not comfortable in DMs at all, you can ask any friend that knows me to talk, have me on a neutral-ground server or group DM, or just email me at `mailbox@starrypoint.me`. I'll read it regardless. And if not, that's okay too. Despite everything that I've done, I hope you've been taking care of yourself. I wish you all the best.
+
+And to speak to the version of me that's living within your head saying the things that they are, cut it out. You're doing everyone a disservice, and you are not me. Telling someone to off themselves isn't self-improvement, and is unbecoming of a copy of a witch.
