@@ -56,7 +56,8 @@ latestpostcount = 5
 github = "vrnavi"
 email = "mailbox@starrypoint.me"
 # twitter = "example"
-mastodon_url = 'https://c.im/@navi'
+bluesky = "ren.0ccu.lt"
+# mastodon_url = 'https://c.im/@navi'
 
 [params.colors]
 identifier = "#527fc1f"
