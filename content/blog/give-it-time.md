@@ -1,5 +1,5 @@
 +++
-author = "ren"
+author = "Ren"
 title = "New Topics: Shut Up and Listen"
 date = "2023-08-23"
 description = "Keep your ears closed and see where that gets you."

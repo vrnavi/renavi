@@ -1,6 +1,6 @@
 baseURL = 'https://ren.0ccu.lt/'
 languageCode = 'en-us'
-title = 'Log of Lapis'
+title = 'Records of Ren'
 theme = 'alageek'
 enableEmoji = true
 
@@ -43,8 +43,8 @@ enableEmoji = true
     weight = 30
 
 [params]
-title = "Log of Lapis"
-description = "Digital profile sent to the boundless expanse of the Outernet."
+title = "Records of Ren"
+description = "Digital profile sent to the boundless expanse of the internet."
 images = ["background.png"]
 copyright = "(c) 0004 Ren Avi"
 copyrightUrl = "https://0ccu.lt"

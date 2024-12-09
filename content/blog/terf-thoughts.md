@@ -1,5 +1,5 @@
 +++
-author = "ren"
+author = "Ren"
 title = "A reflection on \"TERF\"."
 date = "2023-06-29"
 description = "You lot are sick."

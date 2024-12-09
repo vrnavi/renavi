@@ -1,5 +1,5 @@
 +++
-author = "ren"
+author = "Ren"
 title = "Discord and File Hosting."
 date = "2023-05-24"
 description = "Who in their right mind would use Discord as a file host?"
@@ -31,7 +31,7 @@ Surprise surprise, Discord will track you too, by default. You can opt out, but 
 
 And if you get banned from these Discord servers as well? Well, kiss that file you needed goodbye, you aren't getting it. Guess that thing you needed the file for is a paperweight now.
 
-I want to work on something like [noCDN.rip](https://nocdn.rip) as a countermeasure against this. I don't know how scummy it is to enter these servers, take the file *links*, put them on that webstie and leave, though. Feel free to [email](mailto://mailbox@starrpoint.me) if you have an opinion, or are one of these server owners who wants to tell me how much of a tinfoil hat conspiracist I am. I only care about one of these two.
+~~I want to work on something like [noCDN.rip](https://nocdn.rip) as a countermeasure against this. I don't know how scummy it is to enter these servers, take the file *links*, put them on that webstie and leave, though. Feel free to [email](mailto://mailbox@starrpoint.me) if you have an opinion, or are one of these server owners who wants to tell me how much of a tinfoil hat conspiracist I am. I only care about one of these two.~~ Edited much, much later: No, this isn't my job.
 
 tl;dr: Stop putting your files exclusively on Discord, you're just desperate for people to join. Put it elsewhere, like on a public forum or Google Drive, just *somewhere* else.
 

@@ -1,5 +1,5 @@
 +++
-author = "ren"
+author = "Ren"
 title = "Test Post"
 date = "2023-10-04"
 description = "McDonalds and You."

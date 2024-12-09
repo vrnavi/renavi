@@ -1,5 +1,5 @@
 +++
-author = "ren"
+author = "Ren"
 title = "Discord and Communication."
 date = "2023-05-30"
 description = "I remember... ...what do you mean this ALWAYS happens?!"

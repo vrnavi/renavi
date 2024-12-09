@@ -1,5 +1,5 @@
 +++
-author = "renavi"
+author = "Ren"
 title = "Obligatory diary."
 date = "2023-03-15"
 description = "The theme doesn't even show these..."

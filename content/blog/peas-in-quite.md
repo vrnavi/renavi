@@ -1,5 +1,5 @@
 +++
-author = "ren"
+author = "Ren"
 title = "Peas in Quite: A reflection."
 date = "2024-06-03"
 description = "What hast thou learned today?"
