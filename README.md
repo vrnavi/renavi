@@ -1,6 +1,6 @@
-# Hello, outernet.
+# Hello, internet.
 
-I am `Ren`. You may also call me `Lapis`.
+I am `Ren`.
 
 My common username is `renavi`, but I use `vrnavi` if that is taken.
 
