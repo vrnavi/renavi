@@ -283,6 +283,11 @@ hash = "6b042fe6bb5e12619872f9ce8bf47882d3d5ab9bdfb9228c316af2021ce64eea"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor.pw.toml"
+hash = "195105e5e989cd109d5f644b58eca2e06f9d487d80ea365fa42033675aac7ac7"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "ecb15182468c40f833164c8975bf85e7d913266412f8da1ff031ae664703b076"
 metafile = true
@@ -470,6 +475,11 @@ metafile = true
 [[files]]
 file = "mods/frights-delight.pw.toml"
 hash = "9ea77282b72760f7c99e4aaaff3dcdf5dcb66c6c6b2e7f8aeb9471c394e03122"
+metafile = true
+
+[[files]]
+file = "mods/glass-armor.pw.toml"
+hash = "bce38022ee79edf30784b14039e76eabf3b4b6507f149c97972b2a6841676944"
 metafile = true
 
 [[files]]
@@ -743,6 +753,11 @@ hash = "ddca38b0907f4ce306a04012a8aa131e0e0d1952ea0e0074ac363e70b36e07ce"
 metafile = true
 
 [[files]]
+file = "mods/ore-growth.pw.toml"
+hash = "f6121cb45ec1d4bf5dee421e181389fe8ea38edb3c265fe364f1576be37812e4"
+metafile = true
+
+[[files]]
 file = "mods/origins-dietary-delights.pw.toml"
 hash = "f6a4b0e96f59e59b0fd4387ddeb6095b9552c31a4ccb68acc9a6757d1d2ace60"
 metafile = true
@@ -960,6 +975,11 @@ metafile = true
 [[files]]
 file = "mods/styled-chat.pw.toml"
 hash = "7a79b956ae03dc5f12cc66eaa5ddac541e50ada2e20340c06ea665a2d696c18b"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
 metafile = true
 
 [[files]]
