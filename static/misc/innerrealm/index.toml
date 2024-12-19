@@ -226,6 +226,11 @@ hash = "e46f0c4143f6a56f404cdc7185c77e2a002055a64c660443b5a6fca88ba3d4c6"
 metafile = true
 
 [[files]]
+file = "mods/corgilib.pw.toml"
+hash = "6d227a660261be3af65212f8ac0c5551605f1cad3d7bb2caed017418a6c077c2"
+metafile = true
+
+[[files]]
 file = "mods/corn-delight-fabric.pw.toml"
 hash = "6b042fe6bb5e12619872f9ce8bf47882d3d5ab9bdfb9228c316af2021ce64eea"
 metafile = true
