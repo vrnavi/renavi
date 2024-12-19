@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/bclib/client.json"
+hash = "f4a39d5a202bccf0e1a7980959802c29d99127b7a251eae91daeca1e11b8abe8"
+
+[[files]]
+file = "datapacks/Sculkborn Modded.zip"
+hash = "8bae9ddc1d816d362bcf1edad9a3f70d533247cba3096606ca73de8d030e5e87"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6548800a7f3043473a8ea5f0dd07231d890344dd9bf117ef7ea0e98f1057f0fe"
 metafile = true
@@ -1064,3 +1072,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Sculkborn Resources.zip"
+hash = "1d1719b9b0ae3d1dd3c90fb9cdf69da8a23317470b9fd175108d38cbe0abe6c5"
