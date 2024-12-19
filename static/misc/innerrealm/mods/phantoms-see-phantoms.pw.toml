@@ -1,0 +1,13 @@
+name = "Phantoms See Phantoms [Origins Addon]"
+filename = "phantoms-see-phantoms-1.0.1-1.20.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k5WqaNR7/versions/8PwWOc2Z/phantoms-see-phantoms-1.0.1-1.20.x.jar"
+hash-format = "sha512"
+hash = "431977205fe089a87ba8c864955fcf3d9d97eef452638f3942380eccb132af11405a2e683ef494b64f61b2c79314b1acd24e34419482fa199224415a11511469"
+
+[update]
+[update.modrinth]
+mod-id = "k5WqaNR7"
+version = "8PwWOc2Z"

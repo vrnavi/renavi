@@ -1,0 +1,13 @@
+name = "Fancy Delight"
+filename = "fancydelight-0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bRAjxqA5/versions/e3IAu1X5/fancydelight-0.1-1.20.1.jar"
+hash-format = "sha512"
+hash = "84fcc2864d71688a4f3a1755624d6adc6aa9fe0ec55be9ea1da591e41d93189f77edaa4e54d1cf23b0718783026720d6ea4cbdfe565958f27d491a608962fd91"
+
+[update]
+[update.modrinth]
+mod-id = "bRAjxqA5"
+version = "e3IAu1X5"

@@ -1,0 +1,13 @@
+name = "mark it!"
+filename = "markit-0.1.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RkezrigT/versions/I6dGer12/markit-0.1.1.jar"
+hash-format = "sha512"
+hash = "aae13a9910249982fd85fdbde54bf4135d78a3be5a494fd657b90ffcc708ac01b62c9f29417df6ccf02ab4722f2f1e5d95cc49d297eb9a2dc9d9135165a5503b"
+
+[update]
+[update.modrinth]
+mod-id = "RkezrigT"
+version = "I6dGer12"

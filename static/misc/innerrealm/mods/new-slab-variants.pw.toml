@@ -1,0 +1,13 @@
+name = "New Slab Variants"
+filename = "new_slab_variants-merged-1.20.1-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ns0BvMIG/versions/OuUpw0GN/new_slab_variants-merged-1.20.1-3.0.1.jar"
+hash-format = "sha512"
+hash = "4675656e43783bb65f3e5c49871ffe0ef841ce3254a94b9f6cb14487d76893f22e194a1135733c2a31ea87fefbb55e989ffca6685bf80e5646481b033b6bbfcd"
+
+[update]
+[update.modrinth]
+mod-id = "ns0BvMIG"
+version = "OuUpw0GN"
