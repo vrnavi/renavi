@@ -29,6 +29,10 @@ file = "config/spyglass-improvements/settings.json"
 hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
 
 [[files]]
+file = "config/styled-nicknames.json"
+hash = "0faa2b5075c09ba0dbb2bd639dce79b5e9c71fa5697c8c642b1a4e65488b1cdc"
+
+[[files]]
 file = "datapacks/DRG Dwarf.zip"
 hash = "c0e72db143757c783313b0605c908a4fe496974c10deda9a4c92ead38fc468fb"
 
@@ -394,6 +398,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "b58e81bdab1b3db9bdbf331e45f7438abdf62b63e495dccc003b3ebdf02a3abf"
+metafile = true
+
+[[files]]
+file = "mods/emi.pw.toml"
+hash = "cb84025b57a3c1d575299c82858235cc555867d14d06aca4388302edcdb46281"
 metafile = true
 
 [[files]]
