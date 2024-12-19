@@ -1,8 +1,32 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "761315d5da022e4fb51e87f2a7a0d143144136a7a6e3d046741c628b70fda8a0"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "f4a39d5a202bccf0e1a7980959802c29d99127b7a251eae91daeca1e11b8abe8"
+
+[[files]]
+file = "config/create-client.toml"
+hash = "358367a7af474ba9adf9944079c8ed434309acfcb57f7ead6e8eeed3ab011031"
+
+[[files]]
+file = "config/defaultoptions/keybindings.txt"
+hash = "c52551f247571949235bf3abfe0da4b1bb280bf576dca75bd281ed1e16047eab"
+
+[[files]]
+file = "config/defaultoptions/options.txt"
+hash = "cc4073159348252468e6883bbed69628dcc0b0b402484b5696cb7e2a26e81424"
+
+[[files]]
+file = "config/defaultoptions/servers.dat"
+hash = "783e8ff4418c370a25dd8f5aea670549c8091db7e6f4f1529fe797615bd8a70a"
+
+[[files]]
+file = "config/spyglass-improvements/settings.json"
+hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
 
 [[files]]
 file = "datapacks/Sculkborn Modded.zip"
@@ -226,6 +250,11 @@ metafile = true
 [[files]]
 file = "mods/common-network.pw.toml"
 hash = "720abb80fb6b6585322ee0d10fafd3b4ee6fe2997d2053b4f6f685cd7ed02ea5"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "e81c635602878f92af9a9c11b92481b25c7aaf3f68cd015dabf5f67201886401"
 metafile = true
 
 [[files]]
@@ -479,6 +508,26 @@ hash = "956298b1bbab6d8bfb5074b169d8d24d04d688182edf8af885bbefc6cc1d9c27"
 metafile = true
 
 [[files]]
+file = "mods/jei.pw.toml"
+hash = "5e83a4294f11fd592e58b0fe8a4041ebdf30875c9dd16060cb74189a7aad240d"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-professions-jep.pw.toml"
+hash = "b4d8fbc8ad0bb58c2194116b6c35bacbea824eb30e403fbbf5e5194da9084602"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "60300c6873d127b49ba31b11abc8fa7ac65008480c21c0db4c36d46db25426c5"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "fdd5bb8db6166ec641236cffa0a6a098387ecc6921474ebc56225ca1704b3de9"
+metafile = true
+
+[[files]]
 file = "mods/krypton.pw.toml"
 hash = "9063bac3fdf585a43d318e3f9773475a28ecb8fe80bc7689cc480851eef97420"
 metafile = true
@@ -501,6 +550,11 @@ metafile = true
 [[files]]
 file = "mods/let-sleeping-dogs-lie.pw.toml"
 hash = "922f8a4dbec7d17752d1ba0cf0002f08cc16aee75dd7e1d0ba6a9159ca60aa51"
+metafile = true
+
+[[files]]
+file = "mods/lets-do-vinery.pw.toml"
+hash = "6e14a5c14819bebfa6d54051fb822f2a91893b6fd84f13f555899ca1d8114705"
 metafile = true
 
 [[files]]
@@ -776,6 +830,11 @@ metafile = true
 [[files]]
 file = "mods/sculk-expansion.pw.toml"
 hash = "19d6d4424883c9cda0baaa98a754d0b963cc9966052b81a7a7190d820f2a401a"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "830270b8e5a34f5621720ae09c4cf716a65d8003a30d585c8b817aba1fde9ac8"
 metafile = true
 
 [[files]]
