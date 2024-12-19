@@ -1,0 +1,13 @@
+name = "Rain World Origins"
+filename = "rain-world-origins-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HBh83VYL/versions/mhEMFAzY/rain-world-origins-1.3.0.jar"
+hash-format = "sha512"
+hash = "9559a4ac58c6042f472e2930fdf8f44a63400c23f5ac87a724848a91b2792a7c0245207566e994a7a605ae3acbdaa48da73a718c8d8a2ecb0cec2087172d50c7"
+
+[update]
+[update.modrinth]
+mod-id = "HBh83VYL"
+version = "mhEMFAzY"

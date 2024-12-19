@@ -29,6 +29,10 @@ file = "config/spyglass-improvements/settings.json"
 hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
 
 [[files]]
+file = "datapacks/DRG Dwarf.zip"
+hash = "c0e72db143757c783313b0605c908a4fe496974c10deda9a4c92ead38fc468fb"
+
+[[files]]
 file = "datapacks/Fragment of Sculk.zip"
 hash = "4d371e834b0c0ec3c0a60b7b4ca79ae68864fd469a091e52ee5979d3fc346ea8"
 
@@ -830,6 +834,11 @@ metafile = true
 [[files]]
 file = "mods/rain-should-extinguish-campfires.pw.toml"
 hash = "94a138ea610cd339f94d0ddbbf266e2352a337181f773dfecb9575ce34e83500"
+metafile = true
+
+[[files]]
+file = "mods/rain-world-origins.pw.toml"
+hash = "d9e824f5f2e51f87e3af880c04282727f36eee71601a0409138ae581a347f0f5"
 metafile = true
 
 [[files]]
