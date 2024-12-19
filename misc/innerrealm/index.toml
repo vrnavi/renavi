@@ -293,6 +293,11 @@ hash = "7d227ef90b1918ceb348ade235a5d17c7894acbf387575e96c08920a5bad1bbb"
 metafile = true
 
 [[files]]
+file = "mods/create-origins.pw.toml"
+hash = "9a05ced0b4fe97bd0d3e224c3474d061f98f19fb760bbbf9061bd3f921467c99"
+metafile = true
+
+[[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "3bfc2dbefe1be0c7bef1aa59e9ccf32ad1aaedb8063228f9d146bd9bc084ea02"
 metafile = true
@@ -598,6 +603,11 @@ hash = "5ef4415598aa0f1596686961bfcd3c65761129e7fc49ac8b82c6bd9001d8ed52"
 metafile = true
 
 [[files]]
+file = "mods/moborigins.pw.toml"
+hash = "4d08ae5905273cdf882db0d2000603ad65f3761997e3c48c627e9dfc4c8d7fd3"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "435267c3230ba1439f50fa32c3ed3993a4123f870681451aa95acdde5d52622e"
 metafile = true
@@ -745,6 +755,11 @@ metafile = true
 [[files]]
 file = "mods/origins.pw.toml"
 hash = "e7b1fcffc4ab3623898b392685dde6c06256f9a7724bf48e072b16769b5992c7"
+metafile = true
+
+[[files]]
+file = "mods/originstweaks.pw.toml"
+hash = "7d1b601db4e7ee51e6059b4b203a24f9612b573044de5ee95e94d2d8ccc64254"
 metafile = true
 
 [[files]]
