@@ -992,6 +992,11 @@ hash = "7a79b956ae03dc5f12cc66eaa5ddac541e50ada2e20340c06ea665a2d696c18b"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "df3dab0a368d87080cf735e0c0a253962e47a9ed6b40054736b52e375a471e2d"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "caa507edc23c21df56cda8b40d30d74eaa999b19bf2fe4e2b53cf9a256e1ac76"
 metafile = true
