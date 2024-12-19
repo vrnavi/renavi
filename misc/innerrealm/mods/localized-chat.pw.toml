@@ -1,0 +1,13 @@
+name = "Localized Chat"
+filename = "LocalizedChat-fabric-1.20.1-5.1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/c8zyAYHe/versions/H6X1sXmI/LocalizedChat-fabric-1.20.1-5.1.2.jar"
+hash-format = "sha512"
+hash = "ddf2402c8ea88190ff51c8b3d88ead3665431751debe2f5514541fc92e20032f6b63217ca256b63beff1abc0117ac20815795d38ea8e233dacbdba8904972e32"
+
+[update]
+[update.modrinth]
+mod-id = "c8zyAYHe"
+version = "H6X1sXmI"
