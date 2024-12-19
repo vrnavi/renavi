@@ -1,0 +1,13 @@
+name = "Dumplings Delight Rewrapped"
+filename = "DumplingsDelightRewrapped-1.20.1-1.2.1+fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DqKMBArS/versions/wqJd5Zn9/DumplingsDelightRewrapped-1.20.1-1.2.1%2Bfabric.jar"
+hash-format = "sha512"
+hash = "23f42e8caa26298d354f4f9134f7dd0a23d5418a24252de4159fa4cd6bd4d1be9ca3e325353dd8f35010e3c2a2a65e0fbb6a828bdfc71ac54ddabb925a420a1c"
+
+[update]
+[update.modrinth]
+mod-id = "DqKMBArS"
+version = "wqJd5Zn9"
