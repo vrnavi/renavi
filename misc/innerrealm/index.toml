@@ -25,6 +25,10 @@ file = "config/defaultoptions/servers.dat"
 hash = "783e8ff4418c370a25dd8f5aea670549c8091db7e6f4f1529fe797615bd8a70a"
 
 [[files]]
+file = "config/global_data_and_resourcepacks.toml"
+hash = "9ce296c75769cc654516788beebbfbfea458b80b7808a9c508dae861263b21fe"
+
+[[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
 
@@ -330,11 +334,6 @@ hash = "273f14914815aaf730e3fc23e915f141e1b2b7968ac9070fac889c68f0efa150"
 metafile = true
 
 [[files]]
-file = "mods/datapacks.pw.toml"
-hash = "a8ba997ab846d6a848fe047e5b72016e4c7c9dd2c2b10ca85deb29a9624fe768"
-metafile = true
-
-[[files]]
 file = "mods/deeper-and-darker-delight.pw.toml"
 hash = "d2f692a12a3bc032007b25646aac52dd8643b00a1788c11b3f2528864bb568f9"
 metafile = true
@@ -507,6 +506,11 @@ metafile = true
 [[files]]
 file = "mods/glass-armor.pw.toml"
 hash = "bce38022ee79edf30784b14039e76eabf3b4b6507f149c97972b2a6841676944"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "fa10f81c1e61a4382820f76c7cea1652f2b43742e156a586c19ce375dd6e180b"
 metafile = true
 
 [[files]]
