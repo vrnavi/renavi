@@ -48,6 +48,11 @@ hash = "ffb059375e9dae2fab1077f544a23fc68694e6822779360390cebf96f148f803"
 metafile = true
 
 [[files]]
+file = "mods/advanced-backups.pw.toml"
+hash = "a96a01189b9d1d06da0ba76cc315a107212da8ad98f49745776c348075b1da74"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
 metafile = true
@@ -165,6 +170,11 @@ metafile = true
 [[files]]
 file = "mods/bounced.pw.toml"
 hash = "3cea4e0314e3ea354e4de096034141e261e08fe66409e254c8d48aab204fd5d5"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "066bcf27ce64eeaeb8e595f3768743c02e3a5fa2f7338357a523b8a72f0814df"
 metafile = true
 
 [[files]]
@@ -563,6 +573,11 @@ hash = "470d30cd94b769b646f714432ba4cd01969910f6016957a6b218d2d2900d914c"
 metafile = true
 
 [[files]]
+file = "mods/localized-chat.pw.toml"
+hash = "01555bd425d1ba403241a185fab0deed10d90a9a75eaad52cde93f55f7fbb545"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "b66a3d19ffb4c3c122f3844421dee04acbcf1a7a6fadb277ea803ca9dd96e4b5"
 metafile = true
@@ -670,6 +685,11 @@ metafile = true
 [[files]]
 file = "mods/no-f3.pw.toml"
 hash = "eca1f20c1b55962637324e40ff69bafea22d00b6a87ca5579291d6c5ca1920b2"
+metafile = true
+
+[[files]]
+file = "mods/no-portals.pw.toml"
+hash = "f19eb10d9ef2510cc8e9bf7199efc503717cb6609f31a29a43698f461ae4ff20"
 metafile = true
 
 [[files]]
