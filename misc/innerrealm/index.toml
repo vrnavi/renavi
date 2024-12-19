@@ -34,7 +34,7 @@ hash = "c0e72db143757c783313b0605c908a4fe496974c10deda9a4c92ead38fc468fb"
 
 [[files]]
 file = "datapacks/Fragment of Sculk.zip"
-hash = "4d371e834b0c0ec3c0a60b7b4ca79ae68864fd469a091e52ee5979d3fc346ea8"
+hash = "f378b8b3dc3c19db7bbf0c4c40c78e1e3946b7513b238474ab2c66a1b44e24a5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1198,4 +1198,4 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Fragment of Sculk Resources.zip"
-hash = "d9b336bca3847edc714d4251d94cb26781a947b02f92dc60fd780633bb66400d"
+hash = "ee3b5f063be41c649c24b6c44281f7ee055bfefbb0d8c23a786a018133351274"
