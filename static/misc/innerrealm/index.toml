@@ -18,7 +18,7 @@ hash = "c52551f247571949235bf3abfe0da4b1bb280bf576dca75bd281ed1e16047eab"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "cc4073159348252468e6883bbed69628dcc0b0b402484b5696cb7e2a26e81424"
+hash = "f82d2f87e2d7da1c8dedd533eca0f4a965899b13211a0ff6fd5c622a015562c2"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -29,8 +29,8 @@ file = "config/spyglass-improvements/settings.json"
 hash = "31fc47b995ea2df5af5fecb091d8e03ea3b6682ea8c34772ffc07abd36da5a06"
 
 [[files]]
-file = "datapacks/Sculkborn Modded.zip"
-hash = "8bae9ddc1d816d362bcf1edad9a3f70d533247cba3096606ca73de8d030e5e87"
+file = "datapacks/Fragment of Sculk.zip"
+hash = "4d371e834b0c0ec3c0a60b7b4ca79ae68864fd469a091e52ee5979d3fc346ea8"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1188,5 +1188,5 @@ hash = "d201155cab7c2a2cf940d91f240be769ac12046c2fc6a0774e225a8e51423ed0"
 metafile = true
 
 [[files]]
-file = "resourcepacks/Sculkborn Resources.zip"
-hash = "1d1719b9b0ae3d1dd3c90fb9cdf69da8a23317470b9fd175108d38cbe0abe6c5"
+file = "resourcepacks/Fragment of Sculk Resources.zip"
+hash = "d9b336bca3847edc714d4251d94cb26781a947b02f92dc60fd780633bb66400d"
