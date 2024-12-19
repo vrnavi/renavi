@@ -41,6 +41,10 @@ file = "datapacks/Fragment of Sculk.zip"
 hash = "a4f3219cd55149a3ceac32b2b3758cec2a072a4b9e198377046074c71fc94773"
 
 [[files]]
+file = "datapacks/antiswitchy.zip"
+hash = "fa65ab54e75365e3fc713578616f98e304f3bd10e7e3f7a0aaa2cc9058c17a85"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "6548800a7f3043473a8ea5f0dd07231d890344dd9bf117ef7ea0e98f1057f0fe"
 metafile = true
