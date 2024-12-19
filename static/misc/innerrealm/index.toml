@@ -18,7 +18,7 @@ hash = "c52551f247571949235bf3abfe0da4b1bb280bf576dca75bd281ed1e16047eab"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "f82d2f87e2d7da1c8dedd533eca0f4a965899b13211a0ff6fd5c622a015562c2"
+hash = "681fbd56be04bdcf6ee51759062e4095c6caa0d6e6c6fef31f0589bf81ec74b9"
 
 [[files]]
 file = "config/defaultoptions/servers.dat"
@@ -76,6 +76,11 @@ metafile = true
 [[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "95d278261dad118bd5ce0474d4f8d05ceab0c81e16159cb94182b550187cd473"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "e8d8fda7893c13e034a09b33d0a1258a54b0445d533f90d00a50d9a8d862921a"
 metafile = true
 
 [[files]]
@@ -426,6 +431,11 @@ metafile = true
 [[files]]
 file = "mods/estrogen.pw.toml"
 hash = "157d7826377eefc4746e7f8037e2169a90571c3c34d4d2ce1505c7767c6fbbb9"
+metafile = true
+
+[[files]]
+file = "mods/every-compat.pw.toml"
+hash = "ea326b7e3233ade11c83b6373636d1190473538545dd5ab06fe816155bbad5a5"
 metafile = true
 
 [[files]]
