@@ -372,6 +372,11 @@ hash = "d5e98d89e82c9117f4be0032512eda83fda764fc0ae2a506178a37a2a51acce9"
 metafile = true
 
 [[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "929117b53b88229ad2d1110fbcd4fa2906a70c09ab7409ec7bb7e1e9d475cb48"
+metafile = true
+
+[[files]]
 file = "mods/dumplings-delight-rewrapped.pw.toml"
 hash = "8590f347d210243d61f1fc7ab378ae097df4a361f82a8d5856f8d1d48f87c928"
 metafile = true
@@ -429,6 +434,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
 hash = "ce276e188fa22c4b8e4a99a0558844284fff7d49af2c5e6683290eaa598a7c61"
+metafile = true
+
+[[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "0db682bb6d3cd01a530ed20898e5b52d0743253a74c42cc1848d56d4cd2a0e59"
 metafile = true
 
 [[files]]
