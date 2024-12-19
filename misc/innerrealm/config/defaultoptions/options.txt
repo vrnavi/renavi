@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["vanilla","fabric","minecraft:udpresencefootsteps","minecraft:frdpresencefootsteps","seasons:seasonal_lush_caves","autoslabs:distinct_slabs","Moonlight Mods Dynamic Assets","file/Sculkborn Resources.zip"]
+resourcePacks:["vanilla","fabric","minecraft:udpresencefootsteps","minecraft:frdpresencefootsteps","seasons:seasonal_lush_caves","autoslabs:distinct_slabs","Moonlight Mods Dynamic Assets","file/Fragment of Sculk Resources.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
